@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - hp_barra
+  - inimigo
+  - Pisavel
+  - moeda
+  - moedaQ
+  - moeda_text_tag
+  - Ataque
+  - Chance_texto_tag
+  - Nova_municao
+  - Municao_text
+  - Municao_texto_tag
+  - Checkpoint
+  - morte_imediata
+  - passarFase2
+  - passarFase3
+  - Boss
+  - Parede
+  - weapon
+  - MovingPlatform
+  - BalaBoss
+  - BossTiro
+  - hp_barra_noel
+  - BonecoBoss
+  - BonecoHp
+  - BossHp
+  - vitoria
+  - Obstaculo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Andar
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
